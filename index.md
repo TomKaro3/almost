@@ -1,4 +1,4 @@
-# ALMOST
+# Almost
 
 A minimalist game of near misses.
 
